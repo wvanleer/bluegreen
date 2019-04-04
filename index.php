@@ -2,8 +2,7 @@
 <!--[if IE 9]><html class="ie9"><![endif]-->
 <!--[if gt IE 9]><!-->
 <html>
-  
-<!--<![endif]-->
+ <!--<![endif]-->
   <head>
     <title>Basic - PatternFly</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
